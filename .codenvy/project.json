@@ -1,1 +1,1 @@
-{"mixinTypes":["contribution"],"runners":{"configs":{}},"builders":{"configs":{}},"type":"blank","attributes":{}}
+{"builders":{"configs":{}},"mixinTypes":["factory","contribution"],"runners":{"configs":{"system:/javascript/web/simple":{"ram":0,"variables":{},"options":{}}},"default":"system:/javascript/web/simple"},"type":"blank","attributes":{"sourceFactoryId":["czna4pm94hh1jy3z"],"local_branch":["contrib-01312016"]},"description":"Minimalistic Template"}
